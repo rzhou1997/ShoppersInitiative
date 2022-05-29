@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import styled from 'styled-components'
-import axiosInstance from "../Utilities/config"
+import {axiosInstance} from "../Utilities/config"
 const Container = styled.div`
   max-width: 500px;
   border: 2px solid rgb(3, 165, 206);
