@@ -98,7 +98,7 @@ function ProductItem({product, isAdmin, deleteProduct, handleCheck}) {
                     <Link id="Button2" to={`/edit_product/${product._id}`}>Edit</Link>
                 </>
                 : <>
-                    <Link id="Button1" to="#!" onClick={() => addCart(product)}>Buy</Link>
+                    <Link id="Button1" to="" onClick={() => addCart(product)}>Buy</Link>
                     <Link id="Button2" to={`/detail/${product._id}`}>View</Link>
                 </>
             }
