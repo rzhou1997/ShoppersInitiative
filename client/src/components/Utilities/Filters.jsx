@@ -32,7 +32,7 @@ const SearchInput = styled.input`
 
 const Option = styled.option``;
 
-function Filters() {
+const Filters = () => {
     const state = useContext(Context)
     const [categories] = state.FetchCategories.categories
     const [isAdmin] = state.FetchUserCart.isAdmin
