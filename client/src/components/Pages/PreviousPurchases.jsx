@@ -36,7 +36,7 @@ const TH = styled.th`
 `;
 const TBody = styled.tbody``;
 
-function PreviousPurchases() {
+const PreviousPurchases = () => {
     const state = useContext(Context)
     const [history, setHistory] = state.FetchUserCart.history
     const [isAdmin] = state.FetchUserCart.isAdmin
