@@ -57,7 +57,7 @@ const CartContainerSpan = styled.div`
   font-size: 10px;
 `;
 
-function Header() {
+const Header = () => {
     const state = useContext(Context)
     const [isLogged] = state.FetchUserCart.isLogged
     const [isAdmin] = state.FetchUserCart.isAdmin
