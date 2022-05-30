@@ -12,7 +12,7 @@ import ProductCreation from '../Pages/ProductCreation'
 import {Context} from '../../context/Context'
 
 
-function Pages() {
+const Pages = () => {
     const state = useContext(Context)
     const [isLogged] = state.FetchUserCart.isLogged
     const [isAdmin] = state.FetchUserCart.isAdmin
