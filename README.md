@@ -3,13 +3,13 @@ E-Commerce Project created with MERN(MongoDb, Express.js, React.js and Node.js)
 
 # Features
 - CRUD(Create, Read, Update and Delete) with products only if you're an admin
-Create, Update and Delete categories only if you're an admin
-Add and Remove products off cart
-Login and Register
-Buy and View products
-Sort, Search and Paginate products
-Paypal payment
-Website: https://shoppersinitiative.herokuapp.com/
+- Create, Update and Delete categories only if you're an admin
+- Add and Remove products off cart
+- Login and Register
+- Buy and View products
+- Sort, Search and Paginate products
+- Paypal payment
+# Website: https://shoppersinitiative.herokuapp.com/
 
 # Login for Admin: 
 Email: admin@gmail.com 
