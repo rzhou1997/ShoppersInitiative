@@ -15,7 +15,7 @@ Website: https://shoppersinitiative.herokuapp.com/
 Email: admin@gmail.com 
 Password: 123456
 
-# login for user: 
+# Login for user: 
 Email: test@gmail.com 
 Password: 123456
 
