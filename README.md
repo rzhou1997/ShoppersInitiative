@@ -9,6 +9,7 @@ E-Commerce Project created with MERN(MongoDb, Express.js, React.js and Node.js)
 - Buy and View products
 - Sort, Search and Paginate products
 - Paypal payment
+- Sort by highest-lowest, best sales(admin only), oldest, newest and lowest-highest prices for products
 # Website: 
 https://shoppersinitiative.herokuapp.com/
 
