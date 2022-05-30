@@ -1,5 +1,5 @@
 # ShoppersInitiative
-E-Commerce Project created with MERN(MongoDb, Express.js, React.js and Node.js)
+E-Commerce Project created with MERN(MongoDb, Express.js, React.js and Node.js) + Context API(State management)
 
 # Features
 - CRUD(Create, Read, Update and Delete) with products only if you're an admin
