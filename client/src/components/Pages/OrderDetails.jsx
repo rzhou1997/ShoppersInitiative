@@ -26,7 +26,7 @@ const TH = styled.th`
     padding: 10px;
 `;
 const TBody = styled.tbody``;
-function OrderDetails() {
+const OrderDetails = () => {
     const state = useContext(Context)
     const [history] = state.FetchUserCart.history
     const [orderDetails, setOrderDetails] = useState([])
