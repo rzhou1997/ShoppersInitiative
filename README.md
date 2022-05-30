@@ -9,7 +9,8 @@ E-Commerce Project created with MERN(MongoDb, Express.js, React.js and Node.js)
 - Buy and View products
 - Sort, Search and Paginate products
 - Paypal payment
-# Website: https://shoppersinitiative.herokuapp.com/
+# Website: 
+https://shoppersinitiative.herokuapp.com/
 
 # Login for Admin: 
 Email: admin@gmail.com 
