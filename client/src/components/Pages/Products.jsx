@@ -43,7 +43,7 @@ const ButtonDeleteAll = styled.button`
   color: red;
 `;
 
-function Products() {
+const Products = () => {
     const state = useContext(Context)
     const [products, setProducts] = state.FetchProducts.products
     const [isAdmin] = state.FetchUserCart.isAdmin
