@@ -11,8 +11,10 @@ Features
 - Sort, Search and Paginate products
 - Paypal payment
 
-Test Logins:
+Website: 
+https://shoppersinitiative.herokuapp.com/
 
+Test Logins:
 Admin:
 Email: admin@gmail.com
 Password: 123456
