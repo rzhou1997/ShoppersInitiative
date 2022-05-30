@@ -26,3 +26,5 @@ Password: 123456
 Paypal Login for test payments:
 Email:sb-nms9z15916478@personal.example.com
 Password:e:-4.pU#
+
+All files are in the master branch
