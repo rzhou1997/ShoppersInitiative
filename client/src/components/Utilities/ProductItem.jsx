@@ -72,7 +72,7 @@ const Input = styled.input`
     width: 25px;
     height: 25px;
 `;
-function ProductItem({product, isAdmin, deleteProduct, handleCheck}) {
+const ProductItem = ({product, isAdmin, deleteProduct, handleCheck}) = >{
     const state = useContext(Context)
     const addCart = state.FetchUserCart.addCart
     return (
