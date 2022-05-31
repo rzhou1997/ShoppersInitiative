@@ -1,5 +1,5 @@
 # ShoppersInitiative
-E-Commerce Project created with MERN(MongoDb, Express.js, React.js and Node.js) + Context API(State management), b-crypt was used to encrpyt and decrypt the password, cloudinary to hold the assets(images) and jwt tokens to create regular user and admin tokens to have different accessibility.
+E-Commerce Project created with MERN(MongoDb, Express.js, React.js and Node.js) + Context API(State management), b-crypt was used to encrpyt and decrypt the password, cloudinary to hold the assets(images) and jwt tokens to create regular user and admin tokens to have different levels of accessibility. We also used cookies to keep track of all users.
 
 # Features
 - CRUD(Create, Read, Update and Delete) with products only if you're an admin
